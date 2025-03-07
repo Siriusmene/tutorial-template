@@ -10,7 +10,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "dotenv": "^16.3.1",
+    "dotenv": "^16.4.7",
     "permissionless": "^0.1.19",
     "viem": "^2.9.23"
   },
