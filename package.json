@@ -12,7 +12,7 @@
   "dependencies": {
     "dotenv": "^16.3.1",
     "permissionless": "^0.1.19",
-    "viem": "^2.9.23"
+    "viem": "^2.23.2"
   },
   "devDependencies": {
     "@types/node": "^20.11.10",
